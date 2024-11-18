@@ -1,1 +1,1 @@
-import{p as t,P as a}from"./vendor.js";import"moment";import"moment-timezone";const e=t(({app:o})=>{o.use(a)});export{e as default};
+import{p as o,P as s}from"./vendor.js";const e=o(({app:a})=>{a.use(s)});export{e as default};

@@ -1,1 +1,1 @@
-import{i as a,a as s,b as t}from"./vendor.js";import"moment";import"moment-timezone";const m=async({store:e})=>{a.use(s,{axios:t,baseURL:"http://aiv-team-2.0.test/api"})};export{m as default};
+import{i as a,a as s,b as e}from"./vendor.js";const o=async({store:t})=>{a.use(s,{axios:e,baseURL:"http://aiv-team-2.0.test/api"})};export{o as default};
